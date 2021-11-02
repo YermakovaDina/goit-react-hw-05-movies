@@ -1,0 +1,12 @@
+.nav_link {
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+  padding: 10px;
+  font-weight: 500;
+  font-size: 18px;
+}
+.nav_activeLink {
+  color: tomato;
+  text-decoration: none;
+}

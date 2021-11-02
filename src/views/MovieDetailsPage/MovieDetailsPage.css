@@ -1,0 +1,27 @@
+.btn {
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.card {
+  display: flex;
+  margin-left: 10px;
+}
+
+.img {
+  padding-right: 10px;
+}
+
+.info {
+  margin-left: 10px;
+}
+
+.button_back {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.button_back:hover {
+  color: tomato;
+  border-color: tomato;
+}
